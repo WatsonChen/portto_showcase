@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## This project is import below libery:
 1. Antd 
 2. React-router-dom
-3. Ajax
+3. Axios
 
 ## Available Scripts
 
