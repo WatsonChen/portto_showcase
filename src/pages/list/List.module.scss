@@ -1,0 +1,11 @@
+@import "/src/basic.scss";
+
+.header {
+  :global {
+    .ant-divider {
+      .ant-divider-inner-text h2 {
+        color: #fff !important;
+      }
+    }
+  }
+}
