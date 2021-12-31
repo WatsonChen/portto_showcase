@@ -1,0 +1,11 @@
+@import "/src/basic.scss";
+
+.header {
+  :global {
+    h2 {
+      text-align: center;
+      margin: 0;
+      color: #fff !important;
+    }
+  }
+}
